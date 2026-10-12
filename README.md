@@ -1,5 +1,5 @@
-Name:
-Roll Number: 
+Name: Peggy Nana Adjoa Annan
+Roll Number: 10022440272
 
 # Assignment Objective
 In this assignment, you will build a styled Tech Workshop Registration Form. You will apply core HTML
